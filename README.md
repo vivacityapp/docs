@@ -1,2 +1,2 @@
 # docs
-Documentatin for the Viva City Services
+Documentation for the Viva City
