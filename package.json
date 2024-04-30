@@ -17,8 +17,10 @@
     "@hyas/inline-svg": "^1.1.0",
     "@hyas/seo": "^2.3.0",
     "@tabler/icons": "^3.2.0",
+    "autoprefixer": "^10.4.19",
     "bootstrap": "^5.3.3",
-    "gethyas": "^2.4.2"
+    "gethyas": "^2.4.2",
+    "postcss-cli": "^11.0.0"
   },
   "devDependencies": {
     "prettier": "^3.2.5",
