@@ -3,5 +3,16 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "editor.tabSize": 2,
-  "editor.insertSpaces": true
+  "editor.insertSpaces": true,
+  "cloudcode.kubeconfigs": [
+    {
+      "name": "\\\\wsl.localhost\\Ubuntu\\home\\szelee\\.kube\\config",
+      "configPath": "\\\\wsl.localhost\\Ubuntu\\home\\szelee\\.kube\\config"
+    },
+    {
+      "name": "wsl-kube",
+      "configPath": "\\\\wsl.localhost\\Ubuntu\\home\\szelee\\.kube\\config"
+    }
+  ],
+  "cloudcode.active-kubeconfig": "\\\\wsl.localhost\\Ubuntu\\home\\szelee\\.kube\\config"
 }
